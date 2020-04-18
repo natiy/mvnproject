@@ -1,4 +1,5 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<
+@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
@@ -6,7 +7,7 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Demo Project from Devops</h1>
+        <h1>soumya Demo Project from Devops</h1>
         <h1>.... TEST CODE .....</h1>
         <h1>.... TEST CODE .....</h1>
         <h1>.... TEST CODE .....</h1>
