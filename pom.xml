@@ -42,7 +42,7 @@
         </snapshotRepository>
     </distributionManagement>
     <build>
-    	<finalName>myproj</finalName>
+    	<finalName>niranjan</finalName>
         <pluginManagement>
             <plugins>
 <plugin>
