@@ -1,0 +1,26 @@
+pipeline {
+    agent any
+    stages {
+        stage('checkout') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+        stage('Build maven project') {
+           steps {
+              echo 'build started'
+         }
+        }
+        stage("Testing maven project") {
+          steps {
+            echo 'build testing'
+          }  
+        }
+        stage('code analysis') {
+           steps {
+             echo 'testing code analysis'
+           }
+        }
+      }
+        
+        }
